@@ -20,14 +20,13 @@ Mémoire mastère Hexagone
 
 Centrer le sujet sur un cas plus pratique comme une ambulance qui doit se rendre à un hôpital en urgence, l'ordinateur quantique pourrait calculer en temps réel le meilleur itinéraire possible en fonction du trafic, des accidents, des travaux, etc. et ainsi permettre de sauver des vies en réduisant le temps de trajet.
 
-Un ordinateur classique est-il capable d'assimiler asser de données pour calculer en temps réel le meilleur itinéraire possible et ainsi éviter les risques d'accident ou de soucis de santé pour le patient ?
+Un ordinateur classique est-il capable d'assimiler assez de données pour calculer en temps réel le meilleur itinéraire possible et ainsi éviter les risques d'accident ou de soucis de santé pour le patient ?
 
 Agents communiquants :
-- Ambulance
-- Hôpital
-- Ordinateur classique
-- Ordinateur quantique
-- Trafic
+- Véhicule médical
+- Hôpital le plus proche en terme de temps de trajet
+- Ordinateur classique VS ordinateur quantique
+- Trafic en temps réel
 
 Capteurs pour les agents -> données à traiter en temps réel ? Computer vision par hélicoptère ou autre
 Véhicule n'ayant pas assez de puissance pour prendre en compte tous les paramètres et calcul de données pour éviter les accidents, accident de voiture automatique etc (voir les exemples). Arizona écraser un piéton à cause de mauvais réglage de l'arrêt d'urgence. 
@@ -35,3 +34,13 @@ Véhicule n'ayant pas assez de puissance pour prendre en compte tous les paramè
 ## Postface
 Point de vue de la loi, de l'éthique, de la sécurité, de la santé, de l'environnement, etc.
 Autocritique comme quoi la première question à se poser est si l'ordinateur quantique est vraiment nécessaire pour résoudre le problème posé et s'il est réellement éthique et légalement encadrable et encadré.
+
+## Construction du sujet
+
+Titre du mémoire : 
+
+Sujet du mémoire : 
+
+Les villes modernes font face à des défis croissants en terme de des flux de transports, de fluidité de circulation, de sécurité routière et de gestion en particulier dans les situations d'urgence où chaque seconde est précieuse. Le transport médical par exemple est directement impacté par les travaux en cours, les modifications de la fluidité du trafic imprévues, ou encore les accidents de la route. IL existe aujourd'hui des systèmes GPS (Global Positioning System) et des algorithmes d'optimisation des trajets mais sont limités par la puissance de calcul des ordinateurs classiques et leur incapacité à traiter d'énormes volumes de données en temps réel.
+
+Les ordinateurs quantiques sont capables de tester beaucoup de solutions de problèmes algorithmiques complexes simultanément et pourrait permettre de traiter efficacement de grands volumes de données dans un temps restreint.
